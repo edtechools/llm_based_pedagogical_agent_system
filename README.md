@@ -3,8 +3,12 @@
 基于大语言模型的教学智能体系统
 
 <p align="center">
-    <a href="https://dify.ai" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/系统演示-00bd78"></a>
+    <a href="https://ppt.edtoosl.top" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/系统演示-00bd78">
+    </a>
+    <a href="https://docs.edtoosl.top" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/使用文档-00bd78">
+    </a>
 </p>
 
 ## 目的
