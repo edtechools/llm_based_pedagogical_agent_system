@@ -3,11 +3,11 @@
 基于大语言模型的教学智能体系统
 
 <p align="center">
-    <a href="https://ppt.edtoosl.top" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/系统演示-00bd78">
+    <a href="https://ppt.edtools.top" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/系统演示-f6f8fa">
     </a>
-    <a href="https://docs.edtoosl.top" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/使用文档-00bd78">
+    <a href="https://docs.edtools.top" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/使用文档-009054">
     </a>
 </p>
 
