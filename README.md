@@ -87,7 +87,10 @@ npm run build
 ```
 将 `dist`目录中的静态文件部署到服务器上 
 
+<div align="right">
+
 [![][back-to-top]](#readme-top)
+
 </div>
 
 ## Star History
