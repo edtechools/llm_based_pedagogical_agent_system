@@ -19,6 +19,8 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 
+</div>
+
 <details>
 <summary><kbd>Table of contents</kbd></summary>
 
@@ -36,7 +38,7 @@
 
 </details>
 
-</div>
+
 
 ## 目的
 
