@@ -1,4 +1,5 @@
 <div align="center"><a name="readme-top"></a>
+
 # LLM-based-Pedagogical-Agent-System
 
 基于大语言模型的教学智能体系统
@@ -8,8 +9,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/系统演示-f6f8fa"></a>
     <a href="https://docs.edtools.top" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hryGYzEVN"></a>
-
-
 </p>
 
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
@@ -22,20 +21,16 @@
 
 <details>
 <summary><kbd>Table of contents</kbd></summary>
-
 #### TOC
-
 - [目的](#-目的)
 - [功能介绍](#-功能介绍)
 - [使用方法](#-使用方法)
   - [`1` 下载目录文件](#1-下载目录文件)
   - [`2` 安装项目依赖](#2-安装项目依赖)
-
 ####
-
 <br/>
-
 </details>
+</div>
 
 ## 目的
 
