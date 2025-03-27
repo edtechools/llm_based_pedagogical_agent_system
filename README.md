@@ -45,7 +45,7 @@ git clone https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System.git
 npm install
 ```
 ### 3. 实现幻灯片
-参考 ![Slidev 文档](https://cn.sli.dev/guide/)
+参考 [Slidev 文档](https://cn.sli.dev/guide/)
 ### 4. 加入教学智能体
 
 
