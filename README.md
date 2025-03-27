@@ -1,3 +1,4 @@
+<div align="center"><a name="readme-top"></a>
 # LLM-based-Pedagogical-Agent-System
 
 基于大语言模型的教学智能体系统
@@ -82,6 +83,8 @@ npm run dev
 npm run build
 ```
 将 `dist`目录中的静态文件部署到服务器上 
+
+[![][back-to-top]](#readme-top)
 
 ## Star History
 
