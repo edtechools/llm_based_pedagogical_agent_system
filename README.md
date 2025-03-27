@@ -7,7 +7,11 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/系统演示-f6f8fa"></a>
     <a href="https://docs.edtools.top" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/使用文档-009054"></a>
+
+
 </p>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ---
 
