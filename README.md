@@ -40,16 +40,31 @@
 git clone https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System.git
 ```
 - 下载 Releases
+- 
 ### 2. 安装项目依赖
-```sh
+```bash
+cd LLM-based-Pedagogical-Agent-System
 npm install
 ```
+
 ### 3. 实现幻灯片
 参考 [Slidev 文档](https://cn.sli.dev/guide/)
+
 ### 4. 加入教学智能体
 1. 在 Dify 中实现应用
 2. 获取应用的密钥
 3. 按照配置格式加入到对应的幻灯片中
+
+### 5. 运行项目
+```bash
+npm run dev
+```
+
+### 6. 部署项目
+```
+npm run build
+```
+将 `dist`目录中的静态文件部署到服务器上 
 
 ## Star History
 
