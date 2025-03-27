@@ -23,14 +23,19 @@
 <summary><kbd>Table of contents</kbd></summary>
 
 #### TOC
+
 - [目的](#-目的)
 - [功能介绍](#-功能介绍)
 - [使用方法](#-使用方法)
   - [`1` 下载目录文件](#1-下载目录文件)
   - [`2` 安装项目依赖](#2-安装项目依赖)
+  - [`3` 实现幻灯片](#3-实现幻灯片)
 ####
+
 <br/>
+
 </details>
+
 </div>
 
 ## 目的
@@ -61,7 +66,7 @@ cd LLM-based-Pedagogical-Agent-System
 npm install
 ```
 
-### 3. 实现幻灯片
+### `3` 实现幻灯片
 参考 [Slidev 文档](https://cn.sli.dev/guide/)
 
 ### 4. 加入教学智能体
