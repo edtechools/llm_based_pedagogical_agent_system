@@ -16,8 +16,8 @@
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
 ![Mattermost Badge](https://img.shields.io/badge/Mattermost-0058CC?logo=mattermost&logoColor=fff&style=for-the-badge)
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
-
----
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 
 ## 目的
 
@@ -35,11 +35,17 @@
 ## 使用方法
 
 ### 1. 下载项目文件
-
+- 使用 git 
+```
+git clone https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System.git
+```
+- 下载 Releases
 ### 2. 安装项目依赖
-
+```
+npm install
+```
 ### 3. 实现幻灯片
-
+参考 ![Slidev 文档](https://cn.sli.dev/guide/)
 ### 4. 加入教学智能体
 
 
