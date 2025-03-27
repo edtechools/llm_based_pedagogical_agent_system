@@ -19,6 +19,23 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 
+<details>
+<summary><kbd>Table of contents</kbd></summary>
+
+#### TOC
+
+- [目的](#-目的)
+- [功能介绍](#-功能介绍)
+- [使用方法](#-使用方法)
+  - [`1` 下载目录文件](#1-下载目录文件)
+  - [`2` 安装项目依赖](#2-安装项目依赖)
+
+####
+
+<br/>
+
+</details>
+
 ## 目的
 
 > 为教师提供以『教师需求为核心』的设计与实现融入教学过程的**基于大语言模型的教学智能体**的技术工具
@@ -40,7 +57,7 @@
 git clone https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System.git
 ```
 - 下载 Releases
-- 
+
 ### 2. 安装项目依赖
 ```bash
 cd LLM-based-Pedagogical-Agent-System
