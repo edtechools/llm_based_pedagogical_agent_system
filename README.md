@@ -36,12 +36,12 @@
 
 ### 1. 下载项目文件
 - 使用 git 
-```
+```shell
 git clone https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System.git
 ```
 - 下载 Releases
 ### 2. 安装项目依赖
-```
+```shell
 npm install
 ```
 ### 3. 实现幻灯片
