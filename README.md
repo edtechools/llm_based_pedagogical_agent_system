@@ -11,15 +11,17 @@
 
 </p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
+![Mattermost Badge](https://img.shields.io/badge/Mattermost-0058CC?logo=mattermost&logoColor=fff&style=for-the-badge)
+![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 
 ---
 
 ## 目的
 
 > 为教师提供以『教师需求为核心』的设计与实现融入教学过程的**基于大语言模型的教学智能体**的技术工具
-
-## 配置
 
 ## 功能介绍
 
@@ -29,6 +31,16 @@
 4. 教学智能体对话功能
 5. 社群求助功能
 6. 其它教学辅助功能
+
+## 使用方法
+
+### 1. 下载项目文件
+
+### 2. 安装项目依赖
+
+### 3. 实现幻灯片
+
+### 4. 加入教学智能体
 
 
 ## Star History
