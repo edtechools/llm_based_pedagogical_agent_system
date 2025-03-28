@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-[![][image-banner]][vercel-link]
+[![][image-banner]][banner-link]
 
 # LLM-based-Pedagogical-Agent-System
 
@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://ppt.edtools.top" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/系统演示-f6f8fa"></a>
-     <a href="https://ppt.edtools.top" target="_blank">
+     <a href="https://docs.edtools.top" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/项目文档-009054"></a>
     <a href="https://docs.edtools.top" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=bilibili-video&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1hryGYzEVN"></a>
@@ -18,9 +18,13 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
 ![Mattermost Badge](https://img.shields.io/badge/Mattermost-0058CC?logo=mattermost&logoColor=fff&style=for-the-badge)
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Redis Badge](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![PM2 Badge](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=fff&style=flat-square)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 
 </div>
@@ -60,11 +64,11 @@
 ## 使用方法
 
 ### 1. 下载项目文件
-- 使用 git 
+- 方法一：使用 git 
 ```bash
 git clone https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System.git
 ```
-- 下载 Releases
+- 方法二：下载 Releases 中的压缩包解压使用
 
 ### 2. 安装项目依赖
 ```bash
@@ -102,3 +106,4 @@ npm run build
 [![Star History Chart](https://api.star-history.com/svg?repos=EdTechools/LLM-based-Pedagogical-Agent-System&type=Date)](https://www.star-history.com/#EdTechools/LLM-based-Pedagogical-Agent-System&Date)
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
+[banner-link]: https://vip.123pan.cn/1841937928/13692940
