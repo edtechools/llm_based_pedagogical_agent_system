@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-![][image-banner]
+[![][image-banner]]
 
 # LLM-based-Pedagogical-Agent-System
 
