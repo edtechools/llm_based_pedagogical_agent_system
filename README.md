@@ -106,4 +106,4 @@ npm run build
 [![Star History Chart](https://api.star-history.com/svg?repos=EdTechools/LLM-based-Pedagogical-Agent-System&type=Date)](https://www.star-history.com/#EdTechools/LLM-based-Pedagogical-Agent-System&Date)
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[banner-link]: https://vip.123pan.cn/1841937928/13692940
+[banner-link]: https://chat-preview.lobehub.com
