@@ -33,23 +33,32 @@
 
 #### TOC
 
-- [目的](#-目的)
-- [功能介绍](#-功能介绍)
-- [使用方法](#-使用方法)
-  - [`1` 下载目录文件](#1-下载目录文件)
-  - [`2` 安装项目依赖](#2-安装项目依赖)
+- [目的](#目的)
+- [功能介绍](#功能介绍)
+- [使用方法](#使用方法)
+  - [1. 下载项目文件](#1-下载项目文件)
+  - [2. 安装项目依赖](#2-安装项目依赖)
   - [`3` 实现幻灯片](#3-实现幻灯片)
+  - [4. 加入教学智能体](#4-加入教学智能体)
+  - [5. 运行项目](#5-运行项目)
+  - [6. 部署项目](#6-部署项目)
+- [Star History](#star-history)
+
 ####
 
 <br/>
 
 </details>
 
-
-
 ## 目的
 
 > 为教师提供以『教师需求为核心』的设计与实现融入教学过程的**基于大语言模型的教学智能体**的技术工具
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
 
 ## 功能介绍
 
@@ -63,36 +72,67 @@
 ## 使用方法
 
 ### 1. 下载项目文件
-- 方法一：使用 git 
+
+- 方法一：使用 git
+
 ```bash
 git clone https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System.git
 ```
+
 - 方法二：下载 Releases 中的压缩包解压使用
 
 ### 2. 安装项目依赖
+
 ```bash
 cd LLM-based-Pedagogical-Agent-System
 npm install
 ```
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
 
 ### `3` 实现幻灯片
+
 参考 [Slidev 文档](https://cn.sli.dev/guide/)
 
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ### 4. 加入教学智能体
+
 1. 在 Dify 中实现应用
 2. 获取应用的密钥
 3. 按照配置格式加入到对应的幻灯片中
 
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
 ### 5. 运行项目
+
 ```bash
 npm run dev
 ```
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
 
 ### 6. 部署项目
+
 ```
 npm run build
 ```
-将 `dist`目录中的静态文件部署到服务器上 
+
+将 `dist`目录中的静态文件部署到服务器上
 
 <div align="right">
 
