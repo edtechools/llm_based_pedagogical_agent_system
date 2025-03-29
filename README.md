@@ -68,6 +68,8 @@
 5. 社群求助功能
 6. 其它教学辅助功能
 
+[![][back-to-top]](#readme-top)
+
 ## 使用方法
 
 ### `1` 下载项目文件
@@ -107,7 +109,13 @@ npm install
 1. 在 Dify 中实现应用，参考 [构建应用](https://docs.dify.ai/zh-hans/guides/application-orchestrate)
 2. 获取应用的密钥，参考 [基于 APIs 开发](https://docs.dify.ai/zh-hans/guides/application-publishing/developing-with-apis)
 3. 按照配置格式加入到对应的幻灯片中
-
+- 每一个智能体由一个唯一标识字段标识，其下有三个子字段，分别是 `title` `key` `show`
+- `title` 字段用来说明该教学智能体的名称。
+- `key` 字段填入从 Dify 平台获得的该智能体的密钥。
+- `show` 字段用来控制该智能体在页面的那一部分子页面进行展示，值的类型为数字列表，列表元素代表子页面的序号，如果值为字符串『all』时，代表智能体始终在该页面显示。
+- 为了使智能体正常显示，还需要在内容部分引入 `<Agent />` 这个组件，该组件是该研究的开发成果，封装了教学智能体的显示逻辑，
+使用者只需要按照格式完成配置即可。
+- 和 agent 字段同一级别的 `clicks` 字段用来配置当前页面有几个子页面。
 <div align="right">
 
 [![][back-to-top]](#readme-top)
