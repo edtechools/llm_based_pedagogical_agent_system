@@ -68,7 +68,11 @@
 5. 社群求助功能
 6. 其它教学辅助功能
 
+<div align="right">
+
 [![][back-to-top]](#readme-top)
+
+</div>
 
 ## 使用方法
 
@@ -149,7 +153,7 @@ npm run build
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EdTechools/LLM-based-Pedagogical-Agent-System&type=Date)](https://www.star-history.com/#EdTechools/LLM-based-Pedagogical-Agent-System&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EdTechools/LLM-based-Pedagogical-Agent-System&type=Timeline)](https://www.star-history.com/#EdTechools/LLM-based-Pedagogical-Agent-System&Timeline)
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
 [image-banner]: https://github.com/EdTechools/LLM-based-Pedagogical-Agent-System/blob/main/img-storage/banner.png?raw=true
